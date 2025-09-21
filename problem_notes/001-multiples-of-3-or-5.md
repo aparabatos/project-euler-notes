@@ -10,7 +10,7 @@ double-counted for multiples of 15.
 $S = k \cdot \frac{a_1 + a_k}{2}$ where $k$ is th number of terms.
 
 2. Compute sums for multiples of 3, multiples of 5, then subtract multiples of
-15.
+15\.
 
 ## Insights
 * This can be use to any set of integers
